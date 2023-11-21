@@ -4,6 +4,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamarunbrahma/finetuned-qlora-falcon7b-medical/blob/main/funetuned_qlora_falcon7b.ipynb)
 [Blog](https://medium.com/@iamarunbrahma/fine-tuning-of-falcon-7b-large-language-model-using-qlora-on-mental-health-dataset-aa290eb6ec85)
 
+
+<img src="https://github.com/Jaykumaran/finetuned-qlora-Mistral7b-mentalHealth/blob/main/Output-gradio.gif">
+
 ## Introduction:
 Mental health issues are often misunderstood or not fully grasped by the general public. This lack of understanding can lead to fear, discomfort, and negative perceptions about mental health conditions. Media portrayals of mental health often perpetuate negative stereotypes, leading to misconceptions and fear. Overcoming mental health stigma requires a multi-faceted approach that involves education, raising awareness, promoting empathy and understanding, challenging stereotypes, and ensuring accessible and quality mental health care.
 Mental health directly impacts an individual's overall well-being, quality of life, and ability to function effectively in daily life. Good mental health is essential for experiencing happiness, fulfilment, and a sense of purpose. Mental health and physical health are closely intertwined. Untreated mental health issues can lead to or worsen physical health problems, such as cardiovascular diseases, weakened immune systems, and chronic conditions.
