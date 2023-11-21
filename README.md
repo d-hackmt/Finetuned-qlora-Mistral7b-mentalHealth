@@ -1,4 +1,4 @@
-# Finetuning of Falcon-7B LLM using QLoRA on Mental Health Conversational Dataset
+# Finetuning of Falcon-7B & Mistral 7b LLM using QLoRA on Mental Health Conversational Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamarunbrahma/finetuned-qlora-falcon7b-medical/blob/main/funetuned_qlora_falcon7b.ipynb)
